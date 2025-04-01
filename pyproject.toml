@@ -7,7 +7,7 @@ readme = "README.md"
 license = "Apache-2.0"
 
 [tool.poetry.dependencies]
-python = ">=3.10"
+python = ">=3.10,<4.0"
 fastapi = ">=0.115.6"
 instructor = ">=1.7.7"
 mcp = ">=1.6.0"
